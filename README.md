@@ -12,7 +12,7 @@ color: blue;
 <body>
 
 <h1>This is very Easy</h1>
-<p>Coomig soon</p>
+<p style="color: blue;">Coomig soon</p>
 
 </body>
 </html>
