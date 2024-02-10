@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<style>
+h1{
+font-size: 30px;
+color: red;
+}
+p{
+color: blue;
+}
+</style>
 <body>
 
 <h1>This is very Easy</h1>
