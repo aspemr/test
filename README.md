@@ -3,8 +3,8 @@
 <title>HTML Tutorial</title>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>This is very Easy</h1>
+<p>Coomig soon</p>
 
 </body>
 </html>
